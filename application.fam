@@ -1,4 +1,4 @@
-App(
+1App(
     appid="wifi_map",
     name="WIFI Mapping",
     apptype=FlipperAppType.EXTERNAL,
